@@ -8,7 +8,7 @@
 
 **Установка на Termux** :
 1. apt install python git -y
-2. git clone https://github.com/Sanif007/sms-scammer
+2. git clone https://Smoke-Software/sms-scammer
 3. pip install requests
 4. cd sms-scammer
 5. python sms.py
